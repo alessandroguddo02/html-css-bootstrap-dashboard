@@ -1,3 +1,7 @@
-.img{
+.img {
     width: 50px;
+}
+
+.my-action-large {
+    min-width: 120px;
 }
