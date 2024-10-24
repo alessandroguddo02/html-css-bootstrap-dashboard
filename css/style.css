@@ -9,3 +9,11 @@ img {
 #newbook label{
     font-weight: bold;
 }
+
+.was-validated 
+.form-control:invalid,
+.was-validated .form-control:valid,
+.was-validated .form-select:invalid{
+    border-color: grey;
+    border-left: 5px solid red;
+}
